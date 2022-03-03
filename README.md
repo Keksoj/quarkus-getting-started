@@ -1,4 +1,9 @@
-# quarkus-getting-started Project
+# quarkus-getting-started 
+
+I'm going to Javaland to sell some Clever Cloud.
+And I want to be prepared, so let's deploy some Quarkus. **Selbstverständlich**.
+
+##
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
